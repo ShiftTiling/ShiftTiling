@@ -1,9 +1,6 @@
-clustile
-首先修改ClusFunction中的LingoPath和root，root必须是绝对路径
-执行顺序：
-Step3 - Step4
-
-optile
-首先修改OpTile_SegFunction，和上面一样
-执行顺序：
-OpTile_Step2 - OpTile_Step3
+Environment: lingo installed and windows 10 platforms
+Clustile:
+1) modify the LingoPath and root in the file of ClusFunction.m   root should be an absolute path
+2) running 
+run Step3....m 
+run Step4....m
