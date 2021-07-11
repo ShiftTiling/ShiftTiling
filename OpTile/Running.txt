@@ -1,0 +1,6 @@
+Environment: lingo installed and windows 10 platforms
+Optile:
+1) modify the LingoPath and root in the file of OpTile_SegFunction.m   root should be an absolute path
+2) running 
+run OpTile_Step2...m
+run OpTile_Step3...m
